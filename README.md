@@ -1,4 +1,4 @@
-# Real-Time-Healthcare-Data-Processing-with-Delta-Live-Tables-DLT-
+# Real-Time-Healthcare-Data-Processing-with-Delta-Live-Tables-DLT
 Real-Time Healthcare Data Processing with Delta Live Tables (DLT)
 
 This repository contains a real-time data processing pipeline for healthcare data using Delta Live Tables (DLT) in Databricks. The project demonstrates how to build a scalable and efficient ETL pipeline that leverages Databricks’ advanced features for data processing and transformation.
